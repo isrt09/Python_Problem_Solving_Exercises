@@ -138,7 +138,6 @@ b has value [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 c has value [21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
 a has value [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-# Question-026 : Make a script that prints out letters of English alphabet from a to z, one letter per line in the terminal. **
 
 
 
